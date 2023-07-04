@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1688440281 source:c:\users\ellen.c.macedo\documents\tabelahash\tabelahash.c
+	<stdlib.h>
+	<string.h>
+	"TabelaHash.h"
+
+1688438909 c:\users\ellen.c.macedo\documents\tabelahash\tabelahash.h
+
+1688438933 source:c:\users\ellen.c.macedo\documents\tabelahash\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TabelaHash.h"
+
